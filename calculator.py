@@ -10,5 +10,5 @@ def multiply(a, b):
 def divide_free(a, b):
   return a/b
 
-  def square(a):
-    a*a
+def get_Remainder(a,b):
+  return a//b
